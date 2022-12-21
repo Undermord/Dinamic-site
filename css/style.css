@@ -142,3 +142,15 @@ header ul li ul li a{
 .main-content .post_text i {
     margin: 0px 14px 14px 0px;
 }
+/*
+    Sidebar
+ */
+.search {
+    margin-top: 47px;
+}
+.sidebar .section{
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+}
